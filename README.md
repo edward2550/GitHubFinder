@@ -1,4 +1,10 @@
+# Github Finder
+React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management 
+
+
 # Getting Started with Create React App
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

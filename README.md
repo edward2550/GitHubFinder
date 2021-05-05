@@ -1,5 +1,5 @@
 # Github Finder
-React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management 
+A react app which utilizes the Github API to search for Github users and display their profile along with their public repos.
 
 
 # Getting Started with Create React App
